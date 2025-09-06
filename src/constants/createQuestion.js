@@ -1,0 +1,23 @@
+export const QuestionType = {
+    PRICE: 'price',
+    PERCENTAGE: 'percentage',
+    RADIO: 'radio',
+    RADIO_V2: 'radiov2',
+    GRID_RADIO_V2: 'grid_radiov2',
+    TEXT: 'text',
+    SELECT: 'select',
+    ZIPCODE: 'zipcode',
+    NUMERIC: 'numeric',
+    COUNTER: 'counter',
+    SLIDER: 'slider',
+    EMAIL: 'email',
+    PHONE: 'phone',
+    ADDRESS: 'address',
+    DATE: 'date',
+    DATE_MONTH: 'date_month',
+    EXPERIENCE: 'experience',
+    CHECKBOX: 'checkbox',
+    GRID_CHECKBOX_V2: 'grid_checkboxv2',
+    INPUT_MASK: 'inputMask',
+  };
+  

@@ -1,0 +1,14 @@
+.custom-gradient {
+    background: linear-gradient(
+            to bottom,
+            #8AB9F1 0%,       /* top */
+            #b57edc 50%,      /* middle - left & right blend */
+            #F08080 100%      /* bottom */
+    );
+
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
